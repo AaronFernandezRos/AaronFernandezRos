@@ -1,4 +1,4 @@
-# Hola soy Aarón Fernández Ros <img src="https://giphy.com/embed/pOZhmE42D1WrCWATLK" width="5%">
+# Hola soy Aarón Fernández Ros <iframe src="https://giphy.com/embed/pOZhmE42D1WrCWATLK" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-work-job-pOZhmE42D1WrCWATLK">via GIPHY</a></p>
 
 ## Acerca de mi
 
