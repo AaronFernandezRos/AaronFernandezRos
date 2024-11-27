@@ -18,3 +18,5 @@ https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBsMDB5OG80eGt6OTIxNW52ZnI4MjJjdXZ
 <div style="width:100%;height:0;padding-bottom:97%;position:relative;"><iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p>
 
 <iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="480" height="466" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Seven_segment_display-animated.gif" width="5%"> 
