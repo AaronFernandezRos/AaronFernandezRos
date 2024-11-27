@@ -1,4 +1,4 @@
-# Hola soy Aarón Fernández Ros <img src="https://giphy.com/gifs/animation-work-job-pOZhmE42D1WrCWATLK" width="5%">
+# Hola soy Aarón Fernández Ros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 # Acerca de mi
 
@@ -10,3 +10,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<iframe src="https://giphy.com/embed/pOZhmE42D1WrCWATLK" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-work-job-pOZhmE42D1WrCWATLK">via GIPHY</a></p>
+
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBsMDB5OG80eGt6OTIxNW52ZnI4MjJjdXZ5ZGdnaDhidjJ0c3p5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.mp4
+
+<div style="width:100%;height:0;padding-bottom:97%;position:relative;"><iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p>
+
+<iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="480" height="466" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p>
