@@ -13,29 +13,25 @@
 <!-- Actividades -->
 <h2><code>Actividades</code><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhzcjJ5MmtlY2luazc5d2Fsd210OXlienZmeWM3c2RzNnpndXUwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N77HnS6xEYYeagW8BA/giphy.webp" height="40px" style="vertical-align: middle;"/>
 
-<a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT1/Instalaci%C3%B3n%20Servidor%20Aplicaciones%20Web.pdf"><img src="media/servidor de aplicaciones web.png" alt="html" width="250" height="250"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/d5/d7/a7/d5d7a7544152bf71f6ec9d8180c40c0d.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/f0/7a/b8/f07ab82763e6fcc464cfcc76a3f9fff5.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/8b/2a/30/8b2a3018f84cf4cc6dcb7659412506d9.jpg" alt="html" width="60" height="60"></a> 
-<a href="#"><img src="https://i.pinimg.com/736x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/72/61/22/7261229daa74fd28bfc26fd34c7f2527.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/21/9b/0d/219b0d9845f62c13d68308559fab955d.jpg" alt="html" width="60" height="60"></a> 
-<a href="#"><img src="https://i.pinimg.com/736x/01/e6/21/01e621158668a4b8b7c92f1d1671bd43.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/1c/8b/46/1c8b46082ffe666e16f3f94b5bbb8b75.jpg" alt="html" width="60" height="60"></a> 
+<a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT1/Instalaci%C3%B3n%20Servidor%20Aplicaciones%20Web.pdf"><img src="media/servidor de aplicaciones web.png" alt="Servicios de Aplicaciones Web " width="250" height="250"></a>
+<a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT2/Aaron_Fernandez_Ros_IAW_UT1_T0.pdf"><img src="media/odoo.png" alt="Servidor Odoo" width="250" height="250"></a>
+<a href="https://github.com/AaronFernandezRos/SAD/blob/main/T1/Aaron_Fernandez_Ros_SAD_UT0_T2.pdf"><img src="media/auditorias.png" alt="Auditorias" width="250" height="250"></a>
+<a href="https://github.com/AaronFernandezRos/SAD/blob/main/T3/Aaron_Fernandez_Ros_SAD_UT3_T0.pdf"><img src="media/hash.png" alt="Hash" width="250" height="250"></a> 
+
 </h2>
 
 <!-- Lenguajes y herramientas -->
 <h2><code>Lenguajes y Herramientas</code><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k3a3FrMjF3cnh5M3JoMGJ3ODNiMDcycjlodWljeXFxM3ViNDd4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.webp" height="40px" style="vertical-align: middle;"/>
 
-<a href="#"><img src="https://i.pinimg.com/736x/20/d2/e1/20d2e1438ffeb048f0c104a73f074e33.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/d5/d7/a7/d5d7a7544152bf71f6ec9d8180c40c0d.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/f0/7a/b8/f07ab82763e6fcc464cfcc76a3f9fff5.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/8b/2a/30/8b2a3018f84cf4cc6dcb7659412506d9.jpg" alt="html" width="60" height="60"></a> 
-<a href="#"><img src="https://i.pinimg.com/736x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/72/61/22/7261229daa74fd28bfc26fd34c7f2527.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/21/9b/0d/219b0d9845f62c13d68308559fab955d.jpg" alt="html" width="60" height="60"></a> 
-<a href="#"><img src="https://i.pinimg.com/736x/01/e6/21/01e621158668a4b8b7c92f1d1671bd43.jpg" alt="html" width="60" height="60"></a>
-<a href="#"><img src="https://i.pinimg.com/736x/1c/8b/46/1c8b46082ffe666e16f3f94b5bbb8b75.jpg" alt="html" width="60" height="60"></a> 
+<a href="#"><img src="https://i.pinimg.com/736x/20/d2/e1/20d2e1438ffeb048f0c104a73f074e33.jpg" alt="html5" width="60" height="60"></a>
+<a href="#"><img src="https://i.pinimg.com/736x/d5/d7/a7/d5d7a7544152bf71f6ec9d8180c40c0d.jpg" alt="css3" width="60" height="60"></a>
+<a href="#"><img src="https://i.pinimg.com/736x/f0/7a/b8/f07ab82763e6fcc464cfcc76a3f9fff5.jpg" alt="javascript" width="60" height="60"></a>
+<a href="#"><img src="https://i.pinimg.com/736x/8b/2a/30/8b2a3018f84cf4cc6dcb7659412506d9.jpg" alt="Python" width="60" height="60"></a> 
+
+<a href="#"><img src="https://i.pinimg.com/736x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg" alt="Java" width="60" height="60"></a>
+<a href="#"><img src="https://i.pinimg.com/736x/72/61/22/7261229daa74fd28bfc26fd34c7f2527.jpg" alt="MySQL" width="60" height="60"></a>
+<a href="#"><img src="https://i.pinimg.com/736x/21/9b/0d/219b0d9845f62c13d68308559fab955d.jpg" alt="PHP" width="60" height="60"></a> 
+<a href="#"><img src="https://i.pinimg.com/736x/1c/8b/46/1c8b46082ffe666e16f3f94b5bbb8b75.jpg" alt="Wordpress" width="60" height="60"></a> 
 </h2>
 
 <!-- Estadísticas -->
