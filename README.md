@@ -16,7 +16,7 @@
   <!-- Actividad 1 -->
   <p style="width: 300px; margin: 10px">📄 Instalación y configuración de un servidor de aplicaciones web.</p>
   <a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT1/Instalaci%C3%B3n%20Servidor%20Aplicaciones%20Web.pdf">
-    <img src="media/servidor de aplicaciones web.png" alt="Servicios de Aplicaciones Web" width="400" height="400">
+    <img src="media/servidor de aplicaciones web.png" alt="Servicios de Aplicaciones Web" width="300" height="300">
   </a>
 
   <!-- Actividad 2 -->
