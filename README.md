@@ -15,13 +15,13 @@
 <table>
   <tr>
     <td>
-      <h3 align="center">Servidor de Aplicaciones Web</h3>
+      <h3 style="text-decoration: underline; text-align: center;" >Servidor de Aplicaciones Web</h3>
       <a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT1/Instalaci%C3%B3n%20Servidor%20Aplicaciones%20Web.pdf">
         <img src="media/servidor de aplicaciones web.png" alt="Servicios de Aplicaciones Web" width="400" height="400">
       </a>
     </td>
     <td>
-      <h3 align="center">Servidor Odoo</h3>
+      <h3 style="text-decoration: underline; text-align: center;">Servidor Odoo</h3>
       <a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT2/Aaron_Fernandez_Ros_IAW_UT1_T0.pdf">
         <img src="media/odoo.png" alt="Servidor Odoo" width="400" height="400">
       </a>
@@ -29,13 +29,13 @@
   </tr>
   <tr>
     <td>
-      <h3 align="center">Auditorías</h3>
+      <h3 style="text-decoration: underline; text-align: center;">Auditorías</h3>
       <a href="https://github.com/AaronFernandezRos/SAD/blob/main/T1/Aaron_Fernandez_Ros_SAD_UT0_T2.pdf">
         <img src="media/auditorias.png" alt="Auditorias" width="400" height="400">
       </a>
     </td>
     <td>
-      <h3 align="center">Hash</h2>
+      <h3 style="text-decoration: underline; text-align: center;">Hash</h2>
       <a href="https://github.com/AaronFernandezRos/SAD/blob/main/T3/Aaron_Fernandez_Ros_SAD_UT3_T0.pdf">
         <img src="media/hash.png" alt="Hash" width="400" height="400">
       </a>
