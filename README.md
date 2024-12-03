@@ -12,30 +12,30 @@
 </h2>
 <!-- Actividades -->
 <h2><code>Actividades</code><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhzcjJ5MmtlY2luazc5d2Fsd210OXlienZmeWM3c2RzNnpndXUwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N77HnS6xEYYeagW8BA/giphy.webp" height="40px" style="vertical-align: middle;"/>
-<table align="center">
+<table>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <p><u>Servicios de Aplicaciones Web</u></p>
+    <td>
+      <h3 align="center">Servicios de Aplicaciones Web</h3>
       <a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT1/Instalaci%C3%B3n%20Servidor%20Aplicaciones%20Web.pdf">
         <img src="media/servidor de aplicaciones web.png" alt="Servicios de Aplicaciones Web" width="400" height="400">
       </a>
     </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <p><u>Servidor Odoo</u></p>
+    <td>
+      <h3 align="center">Servidor Odoo</h3>
       <a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT2/Aaron_Fernandez_Ros_IAW_UT1_T0.pdf">
         <img src="media/odoo.png" alt="Servidor Odoo" width="400" height="400">
       </a>
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <p><u>Auditorías</u></p>
+    <td>
+      <h3 align="center">Auditorías</h3>
       <a href="https://github.com/AaronFernandezRos/SAD/blob/main/T1/Aaron_Fernandez_Ros_SAD_UT0_T2.pdf">
         <img src="media/auditorias.png" alt="Auditorias" width="400" height="400">
       </a>
     </td>
-    <td style="text-align: center; vertical-align: middle;">
-      <p><u>Hash</u></p>
+    <td>
+      <h3 align="center">Hash</h2>
       <a href="https://github.com/AaronFernandezRos/SAD/blob/main/T3/Aaron_Fernandez_Ros_SAD_UT3_T0.pdf">
         <img src="media/hash.png" alt="Hash" width="400" height="400">
       </a>
