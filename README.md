@@ -13,12 +13,33 @@
 <!-- Actividades -->
 <h2><code>Actividades</code><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhzcjJ5MmtlY2luazc5d2Fsd210OXlienZmeWM3c2RzNnpndXUwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N77HnS6xEYYeagW8BA/giphy.webp" height="40px" style="vertical-align: middle;"/>
 
-<a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT1/Instalaci%C3%B3n%20Servidor%20Aplicaciones%20Web.pdf"><img src="media/servidor de aplicaciones web.png" alt="Servicios de Aplicaciones Web " width="400" height="400"></a>
-<a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT2/Aaron_Fernandez_Ros_IAW_UT1_T0.pdf"><img src="media/odoo.png" alt="Servidor Odoo" width="400" height="400"></a>
-<a href="https://github.com/AaronFernandezRos/SAD/blob/main/T1/Aaron_Fernandez_Ros_SAD_UT0_T2.pdf"><img src="media/auditorias.png" alt="Auditorias" width="400" height="400"></a>
-<a href="https://github.com/AaronFernandezRos/SAD/blob/main/T3/Aaron_Fernandez_Ros_SAD_UT3_T0.pdf"><img src="media/hash.png" alt="Hash" width="400" height="400"></a> 
+  <!-- Actividad 1 -->
+  <p style="width: 400px; margin: 10px">📄 Instalación y configuración de un servidor de aplicaciones web.</p>
+  <a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT1/Instalaci%C3%B3n%20Servidor%20Aplicaciones%20Web.pdf">
+    <img src="media/servidor de aplicaciones web.png" alt="Servicios de Aplicaciones Web" width="400" height="400">
+  </a>
 
+  <!-- Actividad 2 -->
+  <p style="width: 400px; margin: 10px">📄 Implementación de un servidor Odoo y su configuración.</p>
+  <a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT2/Aaron_Fernandez_Ros_IAW_UT1_T0.pdf">
+    <img src="media/odoo.png" alt="Servidor Odoo" width="400" height="400">
+  </a>
+
+  <!-- Actividad 3 -->
+  <p style="width: 400px; margin: 10px">📄 Introducción a las auditorías de seguridad informática.</p>
+  <a href="https://github.com/AaronFernandezRos/SAD/blob/main/T1/Aaron_Fernandez_Ros_SAD_UT0_T2.pdf">
+    <img src="media/auditorias.png" alt="Auditorías" width="400" height="400">
+  </a>
+
+  <!-- Actividad 4 -->
+  <p style="width: 400px; margin: 10px">📄 Estudio y aplicación de funciones hash en seguridad informática.</p>
+  <a href="https://github.com/AaronFernandezRos/SAD/blob/main/T3/Aaron_Fernandez_Ros_SAD_UT3_T0.pdf">
+    <img src="media/hash.png" alt="Hash" width="400" height="400">
+  </a>
+</div>
 </h2>
+
+
 
 <!-- Lenguajes y herramientas -->
 <h2><code>Lenguajes y Herramientas</code><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k3a3FrMjF3cnh5M3JoMGJ3ODNiMDcycjlodWljeXFxM3ViNDd4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhQuegHFqkVYuFMXMQ/giphy.webp" height="40px" style="vertical-align: middle;"/>
