@@ -19,34 +19,34 @@
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
   <!-- Actividad 1 -->
   <div style="text-align: left;">
+      <p style="margin: 10px 0;">📄 Instalación y configuración de un servidor de aplicaciones web.</p>
     <a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT1/Instalaci%C3%B3n%20Servidor%20Aplicaciones%20Web.pdf">
-      <img src="media/servidor de aplicaciones web.png" alt="Servicios de Aplicaciones Web" width="400" height="400">
+      <img src="media/servidor de aplicaciones web.png" alt="Servicios de Aplicaciones Web" width="300" height="300">
     </a>
-    <p style="margin: 10px 0;">📄 Instalación y configuración de un servidor de aplicaciones web.</p>
   </div>
 
   <!-- Actividad 2 -->
   <div style="text-align: left;">
+      <p style="margin: 10px 0;">📄 Implementación de un servidor Odoo y su configuración.</p>
     <a href="https://github.com/AaronFernandezRos/IAW/blob/main/UT2/Aaron_Fernandez_Ros_IAW_UT1_T0.pdf">
-      <img src="media/odoo.png" alt="Servidor Odoo" width="400" height="400">
+      <img src="media/odoo.png" alt="Servidor Odoo" width="300" height="300">
     </a>
-    <p style="margin: 10px 0;">📄 Implementación de un servidor Odoo y su configuración.</p>
   </div>
 
   <!-- Actividad 3 -->
   <div style="text-align: left;">
+      <p style="margin: 10px 0;">📄 Introducción a las auditorías de seguridad informática.</p>
     <a href="https://github.com/AaronFernandezRos/SAD/blob/main/T1/Aaron_Fernandez_Ros_SAD_UT0_T2.pdf">
-      <img src="media/auditorias.png" alt="Auditorías" width="400" height="400">
+      <img src="media/auditorias.png" alt="Auditorías" width="300" height="300">
     </a>
-    <p style="margin: 10px 0;">📄 Introducción a las auditorías de seguridad informática.</p>
   </div>
 
   <!-- Actividad 4 -->
   <div style="text-align: left;">
+      <p style="margin: 10px 0;">📄 Estudio y aplicación de funciones hash en seguridad informática.</p>
     <a href="https://github.com/AaronFernandezRos/SAD/blob/main/T3/Aaron_Fernandez_Ros_SAD_UT3_T0.pdf">
-      <img src="media/hash.png" alt="Hash" width="400" height="400">
+      <img src="media/hash.png" alt="Hash" width="300" height="300">
     </a>
-    <p style="margin: 10px 0;">📄 Estudio y aplicación de funciones hash en seguridad informática.</p>
   </div>
 </div>
 </h2>
