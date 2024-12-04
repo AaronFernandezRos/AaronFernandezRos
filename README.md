@@ -60,7 +60,17 @@
 <!-- Estadísticas -->
 <h2><code> Estadísticas GitHub </code><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjN2eGNoeHNsNTkycW14dzFmbHM3MGJtZW04a2UzZWp6ZnQ1MXh6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FjEn2xaiXm5qaOl1Ry/giphy.webp" height="40px" style="vertical-align: middle;"/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AaronFernandezRos&show_icons=true&count_private=true&hide_border=true"/>
-</h2></div>
+</h2>
+
+<!-- Contacto -->
+<h2><code> Estadísticas GitHub </code></h2>
+
+<h3>Escanea el código QR para enviarme un correo de forma rápida:
+</h3>
+<div align="center"><img src="media/qr_contacto.png" alt="Servicios de Aplicaciones Web" width="100" height="100"></a>
+
+
+
 
 
 
