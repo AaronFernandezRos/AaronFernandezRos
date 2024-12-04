@@ -63,12 +63,11 @@
 </h2>
 
 <!-- Contacto -->
-<h2><code> Estadísticas GitHub </code></h2>
-
-<h3>Escanea el código QR para enviarme un correo de forma rápida:
-</h3>
+<h2><code>Forma De Contacto</code>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdramNkYTB1ZmlvY2dieDNnNGY0ejd3ajllY2NzdGFjZWlrNW00ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aOften89vRbG/giphy.webp" height="30px" style="vertical-align: middle;"/>
+<p>Escanea el código QR para enviarme un correo de forma rápida:</p>
 <div align="center"><img src="media/qr_contacto.png" alt="Servicios de Aplicaciones Web" width="100" height="100"></a>
-
+</h2>
 
 
 
